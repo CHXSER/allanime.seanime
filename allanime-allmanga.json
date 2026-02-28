@@ -2,7 +2,7 @@
   "id": "allanime-allmanga",
   "name": "AllAnime (AllManga.to)",
   "description": "Stream anime from https://allmanga.to/anime. Uses the same backend as the Aniyomi AllAnime extension (api.allanime.day).",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/CHXSER/allanime.seanime/refs/heads/main/allanime-allmanga.json",
   "version": "1.0.1",
   "author": "AllAnime Extension",
   "type": "onlinestream-provider",
