@@ -17,7 +17,7 @@ The extension uses the same backend (GraphQL at `api.allanime.day`) as the [Aniy
 
 1. **From file (local)**
 
-- Copy **`allanime-allmanga.json`** into the **`extensions`** folder inside your [Seanime data directory](https://seanime.rahim.app/docs/config#data-directory).
+- Copy **`allanime-allmanga.json`** into the **`extensions`** folder inside your Seanime data directory.
 - The file **must** be named **`allanime-allmanga.json`**. If the name doesn’t match, Seanime won’t load it.
 - Restart Seanime (or use the in-app option to refresh extensions if available).
 - Data directory locations:
